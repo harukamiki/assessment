@@ -1,4 +1,4 @@
-use strict;
+"use strict";
 //かなり詳細にエラー出してくれる
 const userNameInput = document.getElementById('user-name');
 const assessmentButton = document.getElementById('assessment');
